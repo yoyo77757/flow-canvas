@@ -1,5 +1,10 @@
 # Flow Canvas
 
+[![Try it](https://img.shields.io/badge/Try_it-Spoold-0066CC?style=flat-square)](https://spoold.com/tools/flow-canvas)
+[![Free](https://img.shields.io/badge/Free-to_use-brightgreen?style=flat-square)](https://spoold.com/tools/flow-canvas)
+[![No sign-up](https://img.shields.io/badge/No_sign--up-required-informational?style=flat-square)](https://spoold.com/tools/flow-canvas)
+[![Client-side](https://img.shields.io/badge/Client--side-browser-blue?style=flat-square)](https://spoold.com/tools/flow-canvas)
+
 Create visual flow diagrams by clicking anywhere on canvas. Auto-detects keywords and styles nodes. Drag to connect nodes and build flowcharts.
 
 ## Features
